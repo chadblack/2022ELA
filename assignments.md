@@ -3,7 +3,20 @@ layout: page
 title: assignments
 ---
 
-## weekly reports: (40%)
+# required readings
+
+There are two texts for purchase:
+
+* Townsend, Camila. *Fifth Sun: A New History of the Aztecs*. Oxford: Oxford
+  University Press, 2021.
+
+* Walker, Charles. *Witness to the Age of Revolution*. Oxford: Oxford
+  University Press, 2020.
+
+All other required readings are available on Canvas.
+
+
+# weekly reports: (40%)
 
 For nine of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
 our synchronous and asynchronous sessions. There are eleven weekly report
