@@ -5,24 +5,33 @@ title: syllabus
 
 **Introduction to Early Latin America**  
 History 255/LAS 251   
-TR 9:50-11:05   
+TR 9:45-11:00   
 
 Fall 2021
 
 **Prof. Chad Black**  
 **Email:** cblack6-at-utk.edu  
 **Office:** 2627 Dunford Hall, 6th Floor  
-**Drop-in Hours:** Wednesday 2:30-4:30 or by appointment.
+**Drop-in Hours:** Tues 1:30-3:30 or by appointment.
 
 **TA Info:**  
-Jane Chang,  jchang20-at-vols.utk.edu  
-Kyle Vratarich, kvratari -at- vols.utk.edu  
+Rachel Wiedman (rwiedman@vols.utk.edu)  
+**Office:** 25  
+**Drop-in Hours:** 
+
+
+Emily Britt (ebritt3@vols.utk.edu)  
+**Office:** 2528 Dunford Hall  
+**Drop-in Hours:**  
+
+
+
 
 In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered
 or civilized the Americas. Sixty years later, in 1552, López de Gómara, the
 private secretary of Hernán Cortes, wrote, "The greatest event since the
 creation of the world (excluding the incarnation and death of Him who created
-it) is the discovery of the Indies \[i.e. Americas\]." He was, himself,
+it) is the discovery of the Indies [i.e. Americas]." He was, himself,
 a participant the conquest of Mexico. From the very beginning, not only the
 magnitude, but also the meaning of the Conquest of the Americas has been
 a point of controversy and acclaim. The history of Early Latin America,
