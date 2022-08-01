@@ -6,7 +6,7 @@ title: calendar
 1. week
 {:toc}
 
-## Week One: Introduction (Aug 19-21)
+## Week One: Introduction (Aug 25)
 
 Welcome (back) to the History of Early Latin America. This week, your only
 responsibility is to carefully read over the syllabus, the course requirements,
@@ -42,7 +42,7 @@ the semester.
 **Textbook Reading:** Preface: The Colonial Crucible. 
 
 
-## Week Two: Premodern Societies I (Aug 24-26)
+## Week Two: Premodern Societies I (Aug 30- Sep 1)
 
 The immigrants to what we now call the Americas arrived by land and cruising the
 coasts. The civilizations that evolved from their wanderings were highly
@@ -73,7 +73,7 @@ then at the Maya.
 **DUE: WEEKLY REPORT**
 
 
-## Week Three: Premodern Societies II (Aug 31-Sep 2)
+## Week Three: Premodern Societies II (Sep 6-Sep 8)
 
 The collapse of Classical Maya society did not mean the disappearance of
 the Maya. Indeed, Maya-speaking communities continue to form integral
@@ -99,7 +99,7 @@ practices.
 
 **DUE: WEEKLY REPORT**
 
-## Week Four: Premodern Societies III  (Sep 7-9)
+## Week Four: Premodern Societies III  (Sep 13-15)
 
 With a foundation in the pre-Conquest Americas, this week we turn to the
 Iberian Peninsula, the close-in Atlantic islands, and to Africa to look at the
@@ -127,7 +127,7 @@ Islands and the trade in enslaved captives with West Africa.
 
 **DUE: WEEKLY REPORT**
 
-## Week Five: The Early Conquest (Sep 14-16)
+## Week Five: The Early Conquest (Sep 20-22)
 
 Prior to sailing across the Atlantic, Columbus learned from Portuguese and
 Spanish expansion into the Atlantic Islands and down the coast of Africa
@@ -162,7 +162,7 @@ promulgated in response.
 
 **DUE: WEEKLY REPORT**
 
-## Week Six: On the Mainland (Sep 21-23)
+## Week Six: On the Mainland (Sep 27-29)
 
 In the 1520s and 1530s, the Spanish Empire expanded to cover much of
 Central and South America. At the time, Spaniards and their native allies
@@ -193,12 +193,12 @@ were doing?
 
 **DUE: WEEKLY REPORT**
 
-## Week Seven: Take Home Exam Due (Sep 28) and Fall Break (Sep 30)
+## Week Seven: Take Home Exam Due (Oct 4) and Fall Break (Oct 6)
 
 Your take home exam is due by the end of day on Tuesday, September 28th,
 uploaded to Canvas.
 
-## Week Eight: The Order of Things (Oct 5-7)
+## Week Eight: The Order of Things (Oct 11-13)
 
 **Textbook Reading:** The Incomplete Conquest and The Religious Renaissance
 
@@ -217,7 +217,7 @@ How do you build an empire on the collapsing foundation of native society? How d
 **DUE: Nothing. Take the week to get caught up with the middle of your
 semester.**
 
-## Week Nine: Captivity and Enslavements (Oct 12-14)
+## Week Nine: Captivity and Enslavements (Oct 18-20)
 
 **Textbook Reading:** Black Communities
 
@@ -233,7 +233,7 @@ From its inception, the Spanish and Portuguese colonial projects depended on the
 
 **DUE: WEEKLY REPORT**
 
-## Week Ten: Native Labor and Accumulation (Oct 19-21)
+## Week Ten: Native Labor and Accumulation (Oct 25-27)
 
 Enslavement was not the only form of coerced labor exploited by Iberian empires. This week we consider the effects of encomienda and tribute on the integrity of native communities under Iberian rule. What significance is there in native communities pursuing their own legal strategies before the crown? How did tribute taxation and labor function? Were the New Laws successful?
 
@@ -249,7 +249,7 @@ Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Col
 
 **DUE: WEEKLY REPORT**
 
-## Week Eleven: Love, Hate, and Social Reproduction (Oct 26-28)
+## Week Eleven: Love, Hate, and Social Reproduction (Nov 1-3)
 
 This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
 
@@ -267,7 +267,7 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 
 **DUE: WEEKLY REPORT**
 
-## Week Twelve: Disruption and Reform (Nov 2-4)
+## Week Twelve: Disruption and Reform (Nov 8-10)
 
 This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
 
@@ -286,7 +286,7 @@ semester's themes.
 
 **DUE: FILM REVIEW**
 
-## Week Thirteen: Rebellion and Reaction (Nov 9-11)
+## Week Thirteen: Rebellion and Reaction (Nov 15-17)
 
 By the 1780s, part of the Spanish Empire erupted into open rebellion
 against the economic reforms pushed afer the Seven Years War. Why did these
@@ -308,7 +308,7 @@ legitimate authority by century's end?
 
 **DUE: WEEKLY REPORT**
 
-## Week Fourteen: Independence (Nov 16-18)
+## Week Fourteen: Independence (Nov 22-24)
 
 The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
 
@@ -325,12 +325,12 @@ Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
 
 **DUE: WEEKLY REPORT**
 
-## Week Fifteen: Thanksgiving (Nov 23)
+## Week Fifteen: Thanksgiving (Nov 29-Dec 1)
 
 Safe travels. See your peoples. I'll only add something this week for outside
 of class if we fall behind.
 
-## Week Sixteen: New World Orders (Nov 30)
+## Week Sixteen: New World Orders (Dec 6)
 
 **Textbook Reading:** The Latin American Puzzle
 
