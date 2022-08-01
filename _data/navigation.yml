@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: 2021 ELA
+  url: /
+- title: Posts
+  url: /posts/
+- title: syllabus
+  url: /syllabus/
+- title: calendar
+  url: /calendar/
+- title: assignments
+  url: /assignments/
