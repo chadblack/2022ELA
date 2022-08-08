@@ -39,8 +39,6 @@ within a week's topic and between weeks. Make sure to look at each week's
 title, and the brief comments comment for the week to help follow the arc of
 the semester.
 
-**Textbook Reading:** Preface: The Colonial Crucible. 
-
 
 ## Week Two: Premodern Societies I (Aug 30- Sep 1)
 
@@ -54,12 +52,9 @@ system than corn.
 This week we look at commonalities among most premodern societies, and
 then at the Maya.
 
-**Textbook Reading:** Native America
-
-
 **Tuesday: On Sedentary Societies**
 
-* Mann, Charles C. "1491” The Atlantic Monthly (March 2002).
+* Townsend, *Fifth Sun*, pp. 1-32
 
 **Thursday: The Maya**
 
@@ -87,15 +82,14 @@ this week, consider the influence of environmental factors on the
 emergence of these civilizations along with their religious and social
 practices.
 
-**Textbook Reading:** 
 
 **Tuesday: Mexica**
 
-* Burkhardt, Louise M. “Mexica Women on the Home Front: Housework and Religion in Aztec Mexico” in Schroeder, Susan et al. Indian Women of Early Mexico, (Norman: University of Oklahoma Press, 1997), pp. 25-54.
+* Townsend, *Fifth Sun*, pp. 33-58
 
 **Thursday: Inka**
 
-* Mary Strong, Art, Nature, and Religion in the Central Andes (Austin: Univ. of Texas Press, 2012): pp. 17-58.
+* Mary Strong, *Art, Nature, and Religion in the Central Andes* (Austin: Univ. of Texas Press, 2012): pp. 17-58.
 
 **DUE: WEEKLY REPORT**
 
@@ -107,8 +101,6 @@ roots of conquest in the so-called “Old World.” Consider the culture of
 conquest cultivated by Isabella and Ferdinand in the 1490s, and also what
 lessons Iberians learned of conquest and expansion in their control of Atlantic
 Islands and the trade in enslaved captives with West Africa.
-
-**Textbook Reading:** Castile and Portugal; and Atlantic Africa
 
 **Tuesday: Across the Atlantic**
 
@@ -141,7 +133,6 @@ arguments made by Friars Montesinos, and Pane, and whether
 they offer an alternative colonial model, or an alternative to
 colonialism?
 
-**Textbook Reading:** The Iberian Imperial Dawn
 
 **Tuesday: Caribbean Conquests**
 
@@ -149,16 +140,11 @@ colonialism?
 
 * The Requerimiento
 
-**Thursday: The Critique**
-
-Here are two critiques from early on, and Laws that the Crown
-promulgated in response.
-
 * Antonio Montesinos, “Advent Sermon”
 
-* “The Relación of Fray Ramón Pane (c. 1494-1496)”
+**Thursday: The Critique**
 
-* “The Laws of Burgos. 1512-1513”
+* Townsend, *Fifth Sun*, pp. 59-84.
 
 **DUE: WEEKLY REPORT**
 
@@ -172,13 +158,10 @@ century, did native allies with the Spanish imagine themselves as
 collaborators in European domination? If not, what did they imagine they
 were doing?
 
-**Textbook Reading:** Native American Empires
 
 **Tuesday: Conquest Myths and Realities**
 
-* Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
-
-* “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
+* Townsend, *Fifth Sun*, pp. 85-106.
 
 * For a fantastic graphic novel approach to telling this story, check out the
   five episodes so [far written and drawn at Aztec
@@ -188,8 +171,7 @@ were doing?
 
 **Thursday: On the Planes of Cajamarca**
 
-* Patricia Seed, “Failing to Marvel: Atahualpa’s Encounter with the Word,”
-  Latin American Research Review 26.1 (1991): 7-32.
+* Townsend, *Fifth Sun*, pp. 107-128.
 
 **DUE: WEEKLY REPORT**
 
@@ -200,19 +182,16 @@ uploaded to Canvas.
 
 ## Week Eight: The Order of Things (Oct 11-13)
 
-**Textbook Reading:** The Incomplete Conquest and The Religious Renaissance
-
 How do you build an empire on the collapsing foundation of native society? How did early modern imperialists confront the technological and practical challenges of ruling the span of the globe?
 
 **Tuesday: Building on collapsing ground**
 
-* Suzanne Alchon, “Colonialism, Disease, and the Spanish Conquest of the Carribbean, Mesoamerica, and the Central Andes,” in A Pest in the Land: New World Epidemics in a Global Perspective (Univ. of NM Press, 2003): 60-82.
+* Townsend, *Fifth Sun*, pp. 129-154.
 
-* J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65.
 
 **Thursday: Church in State**
 
-* Martin Nesvig, Promiscuous Power, “Burning Down the House, in Which the spiritual Conquistadors Go to War with Each Other.”
+* J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65.
 
 **DUE: Nothing. Take the week to get caught up with the middle of your
 semester.**
@@ -237,15 +216,13 @@ From its inception, the Spanish and Portuguese colonial projects depended on the
 
 Enslavement was not the only form of coerced labor exploited by Iberian empires. This week we consider the effects of encomienda and tribute on the integrity of native communities under Iberian rule. What significance is there in native communities pursuing their own legal strategies before the crown? How did tribute taxation and labor function? Were the New Laws successful?
 
-**Textbook Reading:** Native Communities
-
 **Tuesday: The Many Kinds of Economic Coercion**
 
 * Ward Stavig, The World of Túpac Amaru, Ch. 6.
 
 **Thursday: Wither the Two Republics?**
 
-Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Colonial Lives, 6-10.
+* Townsend, *Fifth Sun*, pp. 155-208.
 
 **DUE: WEEKLY REPORT**
 
@@ -253,7 +230,6 @@ Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Col
 
 This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
 
-**Textbook Reading:** Defining Deviancy and Daily Life in City and Country
 
 **Tuesday: Sex in the Archive**
 
@@ -271,7 +247,6 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 
 This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
 
-**Textbook Reading:** War and Reform
 
 **Tuesday: Reacting to Reforms**
 
@@ -294,49 +269,42 @@ rebellions not lead to Independence? What explains the complicated
 political identities articulated by their protagonists? What constituted
 legitimate authority by century's end?
 
-**Textbook Reading:** Late Colonial Life
-
 
 **Tuesday: Opening the Age of Rebellion**
 
-* Elizabeth Penry, “Letters of Insurrection: The Rebellion of the Communities (Charcas, 1781)” in Colonial Lives: 201-215.
+* Walker and Clarke, *Witness to the Age of Revolution*, pp. 1-52.
+
 
 **Thursday: Insurrection and Aftermath**
 
-* David T. Garrett, “His Majesty’s Most Loyal Vassals”: The Indian Nobility and Túpac Amaru,” Hispanic American Historical Review, 84:4 (2004): 575-617. (Available through the library website.)
+* Walker and Clarke, *Witness to the Age of Revolution*, pp. 52-108. 
 
 
-**DUE: WEEKLY REPORT**
-
-## Week Fourteen: Independence (Nov 22-24)
-
-The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
-
-**Textbook Reading:** Independence
-
-**Tuesday: Did Anyone See It Coming?**
-
-* Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,”
-Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
-
-**Thursday: On to War**
-
-* Reading TBD.
-
-**DUE: WEEKLY REPORT**
-
-## Week Fifteen: Thanksgiving (Nov 29-Dec 1)
+## Week Fourteen: Thanksgiving (Nov 22-Nov 24)
 
 Safe travels. See your peoples. I'll only add something this week for outside
 of class if we fall behind.
 
-## Week Sixteen: New World Orders (Dec 6)
 
-**Textbook Reading:** The Latin American Puzzle
+## Week Fifteen: Independence (Nov 29-Dec 1)
+
+The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
+
+**Tuesday: Did Anyone See It Coming?**
+
+* Walker and Clarke, *Witness to the Age of Revolution*, pp. 109-138.
+
+**Thursday: On to War**
+
+* Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,”
+Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
+
+
+## Week Sixteen: New World Orders (Dec 6)
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
-**Final Due:** December 6th at 6:00pm.
+**Final Due:** December 12 by 6:00pm.
 
 
 

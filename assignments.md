@@ -18,10 +18,10 @@ All other required readings are available on Canvas.
 
 # weekly reports: (40%)
 
-For nine of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
+For eight of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
 our synchronous and asynchronous sessions. There are eleven weekly report
 assignments. We will drop the lowest two grades. Weekly Reports are due by midnight
-on Friday, uploaded onto Canvas. The report will respond to all four of the
+on Friday, uploaded onto Canvas. The report will respond to all three of the
 following prompts:
 
 * Identify at least one concept, event, claim, or proper noun mentioned in the
@@ -51,9 +51,6 @@ following prompts:
   assigned. How do the readings complement or contradict or expand on topics
   discussed in class?
 
-* Finish with a question of your own on the readings, sessions, or themes that
-  you feel has significance.
-
 The entire report will be no more than about one typed, single-spaced page.
 
 ## take home exams (35%)
@@ -64,22 +61,18 @@ you. Your essay must draw off of only our readings and sessions.
 
 ## film reaction (25%)
 
-We have feature length films this semester, [*La Otra
+We have two feature length film options this semester, [*La Otra
 Conquista*](), [*Zama*](https://www.imdb.com/title/tt3409848/), and [*También
 la lluvia*](). Students
 must write a 3-5 page analysis on one of these films, the
 first which treats the question of the spiritual conquest of Nahuatl
 civilization, and second of which treats the vanity, ambition, and
-capriciousness of late colonial rule.The third is a meta story about the
-colonial period and Bolivia in the early 2000s.
+capriciousness of late colonial rule.
 
-Instructions for the *La Otra Conquista* version of this assignment are
-[here](https://chadblack.net/2021ELA/otra/).
+Instructions for the *La Otra Conquista* version of this assignment are [here](https://chadblack.net/2021ELA/otra/).
 
 For instructions for the Zama version of the assignment, click
 [here](https://chadblack.net/2021ELA/zama/).
 
-And, if you choose *También la lluvia*, it's
-[here](https://chadblack.net/2021ELA/lluvia/).
 
 
