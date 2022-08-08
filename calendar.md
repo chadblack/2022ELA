@@ -177,7 +177,7 @@ were doing?
 
 ## Week Seven: Take Home Exam Due (Oct 4) and Fall Break (Oct 6)
 
-Your take home exam is due by the end of day on Tuesday, September 28th,
+Your take home exam is due by the end of day on Tuesday, October 4th,
 uploaded to Canvas.
 
 ## Week Eight: The Order of Things (Oct 11-13)
