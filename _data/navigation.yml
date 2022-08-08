@@ -1,6 +1,6 @@
 # Sample site navigation bar links
 
-- title: 2021 ELA
+- title: 2022ELA
   url: /
 - title: Posts
   url: /posts/
@@ -10,3 +10,5 @@
   url: /calendar/
 - title: assignments
   url: /assignments/
+- title: trailer
+  url: /trailer/
