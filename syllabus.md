@@ -16,12 +16,12 @@ Fall 2022
 
 **TA Info:**  
 Rachel Wiedman (rwiedman@vols.utk.edu)  
-**Office:** 25  
-**Drop-in Hours:** 
+**Office:** 2529 Dunford Hall 5th Floor 
+**Drop-in Hours:** Mondays, 1-3.
 
-Emily Britt (ebritt3@vols.utk.edu)  
-**Office:** 2528 Dunford Hall  
-**Drop-in Hours:**  
+Elm Britt (ebritt3@vols.utk.edu)  
+**Office:** 2528 Dunford Hall 5th Floor
+**Drop-in Hours:**  Tuesdays, 12-2
 
 
 
