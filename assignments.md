@@ -44,10 +44,10 @@ following prompts:
   my source.[^1]
 
 * Identify one of the Questions or Themes raised in earlier weeks that one of the
-  assigned readings helps to answer. Then explain why you think this source sheds
-  light on this specific question.
+  assigned readings from **this week** relates to. Then explain why you think this source sheds
+  light on this specific question or theme.
   
-* Connect at least one of the readings to the lectures from the week they were
+* Connect at least one of the readings from **this week**  to the lectures from the week they were
   assigned. How do the readings complement or contradict or expand on topics
   discussed in class?
 
