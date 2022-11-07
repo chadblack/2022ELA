@@ -62,7 +62,7 @@ you. Your essay must draw off of only our readings and sessions.
 ## film reaction (25%)
 
 We have two feature length film options this semester, [*La Otra
-Conquista*]() and [*Zama*](https://www.imdb.com/title/tt3409848/). Students
+Conquista*](https://www.imdb.com/title/tt0175996/) and [*Zama*](https://www.imdb.com/title/tt3409848/). Students
 must write a 3-5 page analysis on one of these films, the
 first which treats the question of the spiritual conquest of Nahuatl
 civilization, and second of which treats the vanity, ambition, and
